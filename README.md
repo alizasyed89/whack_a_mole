@@ -47,13 +47,13 @@ Whack-a-Mole is a simple and interactive arcade game developed in C language as 
 Open the terminal and execute the following command:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/alizasyed89/whack_a_mole
 ```
 
 Navigate to the project folder:
 
 ```bash
-cd YOUR_REPOSITORY_NAME
+cd whack_a_mole
 ```
 
 ### Step 2: Compile the Code
